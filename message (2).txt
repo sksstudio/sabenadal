@@ -77,8 +77,6 @@
         "libopenal64.so": "ebac433b3c88016d16f75e2f71174b3add407f95",
         "libopenal.so": "4fbe4748eef8b07bf2134960d90260482abf3346",
         "libjinput-linux64.so": "bd4ff8a11cc9e5a068fc5d7a74122983a24ebeec",
-        "RAC-64.dll": "3ebdd9d2e6028f1edd581f627157d2285d4c5819",
-        "RAC-32.dll": "49f258780c4de80029cfe490907e470ee4c90033",
         "libopus64.dll": "988a85b3498d1d4aec3be8ea7a4416bf0b1f4037",
         "libopus32.dll": "5f23d3546d5e706fd52cdbdd5831e651f04fdf95",
         "discord-rpc64.dll": "ac7bbbdb1d34eb763d8db4ef7875a50f700e9d48",
